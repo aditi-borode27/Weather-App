@@ -16,7 +16,7 @@ This Weather App is a web-based application that provides real-time weather info
 - **HTML5** for structure
 - **CSS3** for responsive styling
 - **JavaScript (ES6)** for functionality
-- **OpenWeatherMap API** for fetching weather data
+- **OpenWeatherMap API** for fetching weather data [OpenWeatherMap API](https://openweathermap.org/api)
 - **Geolocation API** for retrieving the user's current location ([Geolocation API](https://openweathermap.org/api/geocoding-api))
 
 ## How to Use
