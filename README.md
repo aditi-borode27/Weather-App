@@ -11,6 +11,10 @@ This Weather App is a web-based application that provides real-time weather info
 - **City Search:** Allows users to search for a city and retrieve weather details based on geolocation.
 - **Geolocation Support:** Automatically fetches weather data for the user’s current location if geolocation is enabled.
 
+## Live Demo
+
+Visit the app live on Vercel: [Weather App on Vercel](https://vercel.live/link/weather-app-three-pi-68.vercel.app?via=project-dashboard-alias-list&p=1)
+
 ## Technologies Used
 
 - **HTML5** for structure
