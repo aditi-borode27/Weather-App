@@ -13,7 +13,7 @@ This Weather App is a web-based application that provides real-time weather info
 
 ## Live Demo
 
-Visit the app live on Vercel: [Weather App on Vercel](https://vercel.live/link/weather-app-three-pi-68.vercel.app?via=project-dashboard-alias-list&p=1)
+Visit the app live on Vercel: [Weather App on Vercel](https://weather-app-aditi-borodes-projects.vercel.app/)
 
 ## Technologies Used
 
