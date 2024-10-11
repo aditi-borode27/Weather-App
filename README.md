@@ -37,7 +37,7 @@ This Weather App is a web-based application that provides real-time weather info
 
 ## API Usage
 
-This app uses the OpenWeatherMap API to retrieve weather data.
+This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to retrieve weather data.
 
 - **Current Weather Data**: Provides real-time weather details like temperature, weather description, and humidity.
 - **Five-Day Forecast**: Gives predictions for temperature and conditions over the next five days.
