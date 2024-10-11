@@ -9,7 +9,7 @@ This Weather App is a web-based application that provides real-time weather info
 - **Five-Day Forecast:** Displays the temperature range and weather conditions for the next five days.
 - **Humidity and Feels-Like:** Shows additional weather information like humidity percentage and feels-like temperature.
 - **City Search:** Allows users to search for a city and retrieve weather details based on geolocation.
-- **Geolocation Support:** Automatically fetches weather data for the user’s current location if geolocation is enabled.([Geolocation API](https://openweathermap.org/api/geocoding-api))
+- **Geolocation Support:** Automatically fetches weather data for the user’s current location if geolocation is enabled.
 
 ## Technologies Used
 
@@ -17,7 +17,7 @@ This Weather App is a web-based application that provides real-time weather info
 - **CSS3** for responsive styling
 - **JavaScript (ES6)** for functionality
 - **OpenWeatherMap API** for fetching weather data
-- **Geolocation API** for retrieving the user's current location
+- **Geolocation API** for retrieving the user's current location ([Geolocation API](https://openweathermap.org/api/geocoding-api))
 
 ## How to Use
 
